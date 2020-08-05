@@ -1,4 +1,4 @@
-# faster-rcnn-implementation
+# Video Analytics Bisa AI
 Object detection inference using Faster RCNN model. Functions modified from Tensorflow Object Detection API.
 
 # Object Detection with Tensorflow API
